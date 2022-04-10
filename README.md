@@ -18,30 +18,30 @@ In general data mining tasks can be classified into 2 categries;
 
 ### The Data mining functionalities are as follows:
 1. Concept / Class Description:
-- Data mining can be used to describe individual classes and concepts.
-- These descriptions can be derived via data characterization or data discrimation.
+ - Data mining can be used to describe individual classes and concepts.
+ - These descriptions can be derived via data characterization or data discrimation.
 
 2. Association:
-- Association is one of the best known data mining technique.
-- In association, a pattern is discovered based on the relationship between items in same transcation . That's why, association technique is also known as relation technique.
-- This technique is used in market basket analysis.
+ - Association is one of the best known data mining technique.
+ - In association, a pattern is discovered based on the relationship between items in same transcation . That's why, association technique is also known as relation technique.
+ - This technique is used in market basket analysis.
 
 3. Prediction:
-- It is one of the data mining technique that discover relationship between independent variables and relationship between dependent and independet variables.
+ - It is one of the data mining technique that discover relationship between independent variables and relationship between dependent and independet variables.
 
 4. Classification:
-- It is a classic data mining technique based on machine learning.
-- Classification makes use of mathematical techniques such as decision tree, linear programming neural network and statistics.
-- In classification, we develop a software that can learn how to classify data items into groups.
+ - It is a classic data mining technique based on machine learning.
+ - Classification makes use of mathematical techniques such as decision tree, linear programming neural network and statistics.
+ - In classification, we develop a software that can learn how to classify data items into groups.
 
 5. Clustering 
-- It is the method of grouping objects in such a way that objects with similar features come together and object with disimilar features go apart.
-- It is a unsupervised data mining and it is not a single specific algorithm but a general method to solve the task.
+ - It is the method of grouping objects in such a way that objects with similar features come together and object with disimilar features go apart.
+ - It is a unsupervised data mining and it is not a single specific algorithm but a general method to solve the task.
  eg: K-means clustering and hierarchical clustering are common clustering algorithms used in data mining.
  
 6. Outlier Analysis:
-- A database may contain data objects that don't satisfy with general behavior or model of data. These data are outliers.
-=> Most data mining methods discards outliers as noise or exceptions. However, in some applications such fraud detection, the rare events can be more interesting than the more regularly occuring ones.
+ - A database may contain data objects that don't satisfy with general behavior or model of data. These data are outliers.
+ - Most data mining methods discards outliers as noise or exceptions. However, in some applications such fraud detection, the rare events can be more interesting than the more regularly occuring ones.
 
 ### Major issues in Data Mining
 1. Mining Methodology & user interaction issues
@@ -54,24 +54,24 @@ In general data mining tasks can be classified into 2 categries;
 ## Architecture of Data mining 
 The major components of data mining system are:
 1. Database, Data warehouse , WWW or other information repository
-- This is one or a set of databases, data wareshouse, spread sheets or other kinds of information repositories.
-- Data cleaning and data integration techinques may be performed on the data.
+ - This is one or a set of databases, data wareshouse, spread sheets or other kinds of information repositories.
+ - Data cleaning and data integration techinques may be performed on the data.
 
 2. Database or Datawarehouse server
-- the database or data warehouse server is responsible for fetching the relevent data, based on the user's data mining requests.
+ - the database or data warehouse server is responsible for fetching the relevent data, based on the user's data mining requests.
 
 3. Knowledge Base:
-- This is the domain knowledge that is used to guide the search or evaluate the interestingness of resulting patterns.
-- It is simply stored in the form of set of rules.
+ - This is the domain knowledge that is used to guide the search or evaluate the interestingness of resulting patterns.
+ - It is simply stored in the form of set of rules.
 
 4. Data mining Engine:
-- this is essential to data mining system & consists of sets of functional modules for tasks such as characterization classification, prediction, association and corelation analysis, cluster analysis, evaluation anlysis & so on.
+ - this is essential to data mining system & consists of sets of functional modules for tasks such as characterization classification, prediction, association and corelation analysis, cluster analysis, evaluation anlysis & so on.
 
 5. Pattern Evaluation Module:
-- It may use interestingness thresholds to filter out discovered patterns.
+ - It may use interestingness thresholds to filter out discovered patterns.
 
 6. User Interface
-- This module communicates between users snd data mining system, allowing the user to interact with the system by specifying a data mining query or  tasks
+ - This module communicates between users snd data mining system, allowing the user to interact with the system by specifying a data mining query or  tasks
 
 ### Application of Data mining
 - Market Analysis and management 
@@ -86,15 +86,11 @@ The major components of data mining system are:
 
 
 
-# Data Warehouse
+## Data Warehouse
 - The term "Data Warehouse" was first coined by Bill Inmon in 1990. According to Inmon, a data warehouse is a subject -oriented, integrated , time variant and non-volatile collection of data.
-
 - A data ware house is a repository of information collected from multiple siurces, stored under a unified schema & that usually resides at a single site.
-
 - Data warehouse is a database, which is kept separate from organizational operational database
-.
 - There is no frequent updating done in data warehouse.
-
 - It also contains historical data, which helps the organization to analyze its business.
 
 
@@ -135,10 +131,10 @@ iii. Cultural Issues
 
 # Application Of Data warehousing
 1. Information Processing:
-- A data warehouse allows to process the data stored in it. The data can be processed by means of quering, basic statistical analysis, tables, charts or graphs.
+ - A data warehouse allows to process the data stored in it. The data can be processed by means of quering, basic statistical analysis, tables, charts or graphs.
 
 2. Analytical Processing:
-- A data warehouse supports analytical processing of the information stored in it. The data can be analyzed by means of basic OLAP operation including slide and dice, drill-down, drill up and pivoting.
+ - A data warehouse supports analytical processing of the information stored in it. The data can be analyzed by means of basic OLAP operation including slide and dice, drill-down, drill up and pivoting.
 
 3. Financial Services
 4. Banking 
