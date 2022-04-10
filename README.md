@@ -125,9 +125,9 @@ The major components of data mining system are:
 # Issues in Data Warehousing
 - Building a data warehouse is very difficuilt and a pain. It is challenging.
 - Some of the major issues involved in building data ware house are:
-i. General Issues
-ii. Technical Issues
-iii. Cultural Issues
+1. General Issues
+2. Technical Issues
+3. Cultural Issues
 
 # Application Of Data warehousing
 1. Information Processing:
