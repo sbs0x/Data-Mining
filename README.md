@@ -272,4 +272,15 @@ The major components of data mining system are:
       
   </table>
 
-
+# Important Questions
+- DBMS vs Data Mining
+- Dataware house Schema [star , snowfake , fact constellation ]
+- stages of KDD process
+- OLTP vs OLAP
+- OLAP operations : MOLAP,HOLAP,ROLAP
+- MOLAP vs ROLAP
+- KDD vs Data Mining
+- association rules
+- apriori algorithm
+- k-mean and k-mediod alrorightms
+- DMQL and its syntax
